@@ -1,2 +1,2 @@
 # openCV
-sample project by using openCV
+Face detector by using openCV.
